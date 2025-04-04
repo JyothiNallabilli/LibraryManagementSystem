@@ -27,9 +27,7 @@ javac -d out -sourcepath src src/Main.java
 
 java -cp out Main
 🏗 Project Structure
-css
-Copy
-Edit
+
 LibraryManagementSystem/
 │── src/
 │   ├── model/
@@ -40,8 +38,9 @@ LibraryManagementSystem/
 │   ├── Main.java
 │── README.md
 │── .gitignore
-│── LICENSE
+
 🎯 Usage
+
 Run the application
 
 Choose an option (Add Book, Borrow, Return, etc.)
